@@ -1,0 +1,470 @@
+# depslib dependency file v1.0
+1669235190 source:c:\users\robso\desktop\pim testando\pim\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	<ctype.h>
+	<dos.h>
+
+1669160625 source:c:\users\robso\desktop\pim testando\pim\cadastrarcliente.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	<ctype.h>
+	<dos.h>
+
+1669160848 source:c:\users\robso\desktop\pim testando\pim\alterarcliente.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	<ctype.h>
+	<dos.h>
+
+1669161349 source:c:\users\robso\desktop\pim testando\pim\excluircliente.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	<ctype.h>
+	<dos.h>
+
+1669161664 source:c:\users\robso\desktop\pim testando\pim\consultarcliente.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	<ctype.h>
+	<dos.h>
+
+1669162026 source:c:\users\robso\desktop\pim testando\pim\cadastrarprodutos.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	<ctype.h>
+	<dos.h>
+
+1669162174 source:c:\users\robso\desktop\pim testando\pim\alterarprodutos.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	<ctype.h>
+	<dos.h>
+
+1669162395 source:c:\users\robso\desktop\pim testando\pim\excluirprodutos.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	<ctype.h>
+	<dos.h>
+
+1669162680 source:c:\users\robso\desktop\pim testando\pim\cadastrarfuncionarios.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	<ctype.h>
+	<dos.h>
+
+1669162540 source:c:\users\robso\desktop\pim testando\pim\consultarprodutos.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	<ctype.h>
+	<dos.h>
+
+1669162811 source:c:\users\robso\desktop\pim testando\pim\alterarfuncionarios.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	<ctype.h>
+	<dos.h>
+
+1669162919 source:c:\users\robso\desktop\pim testando\pim\excluirfuncionarios.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	<ctype.h>
+	<dos.h>
+
+1669163080 source:c:\users\robso\desktop\pim testando\pim\consultarfuncionarios.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	<ctype.h>
+	<dos.h>
+
+1669160625 c:\users\robso\desktop\pim testando\pim\cadastrarcliente.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	<ctype.h>
+	<dos.h>
+
+1669160848 c:\users\robso\desktop\pim testando\pim\alterarcliente.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	<ctype.h>
+	<dos.h>
+
+1669161664 c:\users\robso\desktop\pim testando\pim\consultarcliente.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	<ctype.h>
+	<dos.h>
+
+1669161349 c:\users\robso\desktop\pim testando\pim\excluircliente.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	<ctype.h>
+	<dos.h>
+
+1669162026 c:\users\robso\desktop\pim testando\pim\cadastrarprodutos.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	<ctype.h>
+	<dos.h>
+
+1669162174 c:\users\robso\desktop\pim testando\pim\alterarprodutos.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	<ctype.h>
+	<dos.h>
+
+1669162540 c:\users\robso\desktop\pim testando\pim\consultarprodutos.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	<ctype.h>
+	<dos.h>
+
+1669162395 c:\users\robso\desktop\pim testando\pim\excluirprodutos.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	<ctype.h>
+	<dos.h>
+
+1669162680 c:\users\robso\desktop\pim testando\pim\cadastrarfuncionarios.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	<ctype.h>
+	<dos.h>
+
+1669162811 c:\users\robso\desktop\pim testando\pim\alterarfuncionarios.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	<ctype.h>
+	<dos.h>
+
+1669163080 c:\users\robso\desktop\pim testando\pim\consultarfuncionarios.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	<ctype.h>
+	<dos.h>
+
+1669162919 c:\users\robso\desktop\pim testando\pim\excluirfuncionarios.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	<ctype.h>
+	<dos.h>
+
+1669234835 source:c:\users\robso\desktop\pim testando\pim\cadastrarrelatorios.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	<ctype.h>
+	<dos.h>
+
+1669234983 source:c:\users\robso\desktop\pim testando\pim\alterarrelatorios.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	<ctype.h>
+	<dos.h>
+
+1669235084 source:c:\users\robso\desktop\pim testando\pim\excluirrelatorios.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	<ctype.h>
+	<dos.h>
+
+1669235190 source:c:\users\robso\desktop\pim testando\pim\consultarrelatorios.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	<ctype.h>
+	<dos.h>
+
+1669160848 source:c:\users\robso\desktop\pim testando\pim - 2°sem\alterarcliente.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	<ctype.h>
+	<dos.h>
+
+1669162811 source:c:\users\robso\desktop\pim testando\pim - 2°sem\alterarfuncionarios.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	<ctype.h>
+	<dos.h>
+
+1669917240 source:c:\users\robso\desktop\pim testando\pim - 2°sem\alterarprodutos.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	<ctype.h>
+	<dos.h>
+
+1669234983 source:c:\users\robso\desktop\pim testando\pim - 2°sem\alterarrelatorios.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	<ctype.h>
+	<dos.h>
+
+1669160625 source:c:\users\robso\desktop\pim testando\pim - 2°sem\cadastrarcliente.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	<ctype.h>
+	<dos.h>
+
+1669162680 source:c:\users\robso\desktop\pim testando\pim - 2°sem\cadastrarfuncionarios.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	<ctype.h>
+	<dos.h>
+
+1669917226 source:c:\users\robso\desktop\pim testando\pim - 2°sem\cadastrarprodutos.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	<ctype.h>
+	<dos.h>
+
+1669234835 source:c:\users\robso\desktop\pim testando\pim - 2°sem\cadastrarrelatorios.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	<ctype.h>
+	<dos.h>
+
+1669161664 source:c:\users\robso\desktop\pim testando\pim - 2°sem\consultarcliente.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	<ctype.h>
+	<dos.h>
+
+1669163080 source:c:\users\robso\desktop\pim testando\pim - 2°sem\consultarfuncionarios.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	<ctype.h>
+	<dos.h>
+
+1669917275 source:c:\users\robso\desktop\pim testando\pim - 2°sem\consultarprodutos.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	<ctype.h>
+	<dos.h>
+
+1669235190 source:c:\users\robso\desktop\pim testando\pim - 2°sem\consultarrelatorios.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	<ctype.h>
+	<dos.h>
+
+1669161349 source:c:\users\robso\desktop\pim testando\pim - 2°sem\excluircliente.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	<ctype.h>
+	<dos.h>
+
+1669162919 source:c:\users\robso\desktop\pim testando\pim - 2°sem\excluirfuncionarios.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	<ctype.h>
+	<dos.h>
+
+1669917258 source:c:\users\robso\desktop\pim testando\pim - 2°sem\excluirprodutos.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	<ctype.h>
+	<dos.h>
+
+1669235084 source:c:\users\robso\desktop\pim testando\pim - 2°sem\excluirrelatorios.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	<ctype.h>
+	<dos.h>
+
+1669916118 source:c:\users\robso\desktop\pim testando\pim - 2°sem\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	<ctype.h>
+	<dos.h>
+	"cadastro.h"
+
+1669917160 source:c:\users\robso\desktop\pim testando\pim - 2°sem\cadastro.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
+1669494100 c:\users\robso\desktop\pim testando\pim - 2°sem\cadastro.h
+

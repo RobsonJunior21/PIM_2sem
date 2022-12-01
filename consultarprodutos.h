@@ -1,0 +1,6 @@
+#ifndef CONSULTARPRODUTOS_H_INCLUDED
+#define CONSULTARPRODUTOS_H_INCLUDED
+
+void consultarEstoqueProdutos()
+
+#endif // CONSULTARPRODUTOS_H_INCLUDED

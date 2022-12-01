@@ -1,0 +1,6 @@
+#ifndef EXCLUIRPRODUTOS_H_INCLUDED
+#define EXCLUIRPRODUTOS_H_INCLUDED
+
+void excluirEstoqueProdutos()
+
+#endif // EXCLUIRPRODUTOS_H_INCLUDED

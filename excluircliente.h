@@ -1,0 +1,6 @@
+#ifndef EXCLUIRCLIENTE_H_INCLUDED
+#define EXCLUIRCLIENTE_H_INCLUDED
+
+void excluirCliente()
+
+#endif // EXCLUIRCLIENTE_H_INCLUDED

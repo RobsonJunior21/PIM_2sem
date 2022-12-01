@@ -1,0 +1,6 @@
+#ifndef ALTERARPRODUTOS_H_INCLUDED
+#define ALTERARPRODUTOS_H_INCLUDED
+
+void alterarEstoqueProdutos()
+
+#endif // ALTERARPRODUTOS_H_INCLUDED

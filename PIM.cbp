@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="PIM" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/PIM" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/PIM" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="alterarcliente.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="alterarcliente.h" />
+		<Unit filename="alterarfuncionarios.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="alterarfuncionarios.h" />
+		<Unit filename="alterarprodutos.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="alterarprodutos.h" />
+		<Unit filename="alterarrelatorios.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="alterarrelatorios.h" />
+		<Unit filename="cadastrarcliente.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="cadastrarcliente.h" />
+		<Unit filename="cadastrarfuncionarios.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="cadastrarfuncionarios.h" />
+		<Unit filename="cadastrarprodutos.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="cadastrarprodutos.h" />
+		<Unit filename="cadastrarrelatorios.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="cadastrarrelatorios.h" />
+		<Unit filename="cadastro.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="cadastro.h" />
+		<Unit filename="consultarcliente.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="consultarcliente.h" />
+		<Unit filename="consultarfuncionarios.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="consultarfuncionarios.h" />
+		<Unit filename="consultarprodutos.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="consultarprodutos.h" />
+		<Unit filename="consultarrelatorios.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="consultarrelatorios.h" />
+		<Unit filename="excluircliente.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="excluircliente.h" />
+		<Unit filename="excluirfuncionarios.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="excluirfuncionarios.h" />
+		<Unit filename="excluirprodutos.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="excluirprodutos.h" />
+		<Unit filename="excluirrelatorios.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="excluirrelatorios.h" />
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

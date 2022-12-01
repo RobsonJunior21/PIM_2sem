@@ -1,0 +1,6 @@
+#ifndef ALTERARCLIENTE_H_INCLUDED
+#define ALTERARCLIENTE_H_INCLUDED
+
+void alterarCliente()
+
+#endif // ALTERARCLIENTE_H_INCLUDED

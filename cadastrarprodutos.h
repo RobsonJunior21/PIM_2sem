@@ -1,0 +1,6 @@
+#ifndef CADASTRARPRODUTOS_H_INCLUDED
+#define CADASTRARPRODUTOS_H_INCLUDED
+
+void cadastrarEstoqueProdutos()
+
+#endif // CADASTRARPRODUTOS_H_INCLUDED

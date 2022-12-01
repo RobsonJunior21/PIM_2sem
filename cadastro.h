@@ -1,0 +1,6 @@
+#ifndef CADASTRO_H_INCLUDED
+#define CADASTRO_H_INCLUDED
+
+cadastro();
+
+#endif // CADASTRO_H_INCLUDED
